@@ -40,7 +40,7 @@ body {
 .navbar-links {
     text-align: right;
 }
-.navbar-links > li {
+.navbar-links < li {
      position: relative;
   top: 50%;
   transform: translateY(-50%);
