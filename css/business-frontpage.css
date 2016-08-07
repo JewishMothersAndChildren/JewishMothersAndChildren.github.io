@@ -26,6 +26,7 @@ body {
 .tagline {
     text-shadow: 0 0 10px #000;
     color: #E1BFF2;
+    font-weight: bold;
 }
 
 .img-center {
