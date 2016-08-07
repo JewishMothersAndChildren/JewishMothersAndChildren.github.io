@@ -33,7 +33,7 @@ body {
 }
 
 .navbar-links {
-    text-align: left;
+    textalign: right;
 }
 
 .img-center {
