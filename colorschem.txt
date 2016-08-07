@@ -1,0 +1,4 @@
+light purple: #E1BFF2
+lime green: #ADD998
+logo purple: #52197E
+logo green: #118335
