@@ -6,7 +6,7 @@
 @import "TikalSans.css";
 
 body {
-    padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    padding-top: 80px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
     font-family: tikal;
     background-color: #ADD998;
 }
@@ -24,10 +24,7 @@ body {
 
 .navi {
     background-color: white;
-    min-height: 100px;
-}
-.navi > a {
-    color: #52197E;
+    min-height: 80px;
 }
 
 /* Customize the text color and shadow color and to optimize text legibility. */
@@ -41,7 +38,10 @@ body {
 }
 
 .navbar-links {
-    textalign: right;
+    text-align: right;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
 }
 
 .img-center {
