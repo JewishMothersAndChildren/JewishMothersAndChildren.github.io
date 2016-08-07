@@ -24,8 +24,9 @@ body {
 
 .navi {
     background-color: white;
+    min-height: 100px;
 }
-.navi < a {
+.navi > a {
     color: #52197E;
 }
 
