@@ -39,9 +39,7 @@ body {
 
 .navbar-links {
     text-align: right;
-    position: relative;
-    top: 50%;
-    transform: translateY(-50%);
+    margin-top: 33vh;
 }
 
 .img-center {
