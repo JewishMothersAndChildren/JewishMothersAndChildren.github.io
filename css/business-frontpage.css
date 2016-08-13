@@ -15,6 +15,7 @@ body {
 
 .business-header {
     height: 400px;
+    background-color: white;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
