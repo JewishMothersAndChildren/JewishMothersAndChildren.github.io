@@ -9,6 +9,7 @@ body {
     padding-top: 80px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
     font-family: tikal;
     background-color: #ADD998;
+    color:#118335;
 }
 
 /* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
